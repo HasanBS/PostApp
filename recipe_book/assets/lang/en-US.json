@@ -1,0 +1,13 @@
+{
+    "home":{
+        "appbar_title":"Welcome To Posts App",
+        "error_text":"A Connection Error Happend \nPlease Check Your Connection",
+        "user":"User "
+    },
+
+    "page":{
+        "appbar_title":"Welcome To Post",
+        "user":"User ID : ",
+        "title":"Title"
+    }
+}
